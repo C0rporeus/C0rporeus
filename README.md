@@ -48,6 +48,12 @@ AWS · Azure · GCP · Kubernetes · Terraform · CDK · Docker
 ### Observability
 OpenTelemetry · Jaeger · Prometheus · Grafana  
 
+## Selected Work
+
+- **go-api-rest** – Production-oriented backend service in Go with structured architecture and observability instrumentation.
+- **lab-observability-apps** – Practical sandbox for distributed tracing and telemetry experimentation.
+- **front-end** – Full-stack project integrating frontend application, backend services, and cloud deployment workflows.
+
 ---
 
 ## Regulated & Sensitive Workloads
